@@ -72,6 +72,7 @@ const ProfilPage = () => {
 
     const updates = {
       id: user.id,
+      email: user.email,
       nom,
       prenom,
       tel,
